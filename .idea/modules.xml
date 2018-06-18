@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InstagramClone.iml" filepath="$PROJECT_DIR$/InstagramClone.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/socialnetwork.iml" filepath="$PROJECT_DIR$/.idea/socialnetwork.iml" />
     </modules>
   </component>
 </project>
